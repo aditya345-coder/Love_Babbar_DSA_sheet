@@ -4,3 +4,4 @@
 4. Sort 0 1 2
 5. Move All Negative Numbers To Beginning And Positive To End
 6. Find similarities between two arrays.
+7. Rotate array
